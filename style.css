@@ -1,0 +1,97 @@
+body{
+    background-image: url(https://shorturl.at/dmD06);
+    background-size: cover; 
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    float: left;
+    width: 350px;
+    height: 350px;
+    position: relative;
+    border-radius: 10px;
+    margin-right: 50px;
+}
+
+i{
+    font-size: 75px;
+    cursor: pointer;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    margin-left: 600px;
+    bottom: 80px; 
+    right: 30px;
+}
+
+.container1{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgb(24, 23, 23);
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.container2{
+    display:flex;
+}
+
+.container3{
+    display:flex;
+}
+
+.exp_summary{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    bottom: 0;
+}
+
+.header{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height: 300px;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 0px;
+}
+
+.work_exp{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    margin-right: 150px;
+}
+
+.education{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+}
+
+.expertise{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+    margin-right: 150px;
+}
+
+.certifications{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    position: relative;
+}
+
+#header_h1{
+    font-size: 50px;
+}
+
+#pre_exp{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#pre_work{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#pre_educ{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
